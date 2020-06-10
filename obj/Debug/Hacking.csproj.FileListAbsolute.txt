@@ -1,0 +1,10 @@
+C:\ижгту\ижгту\КМЗИ\курсач\Elgamal-master\Elgamal-master\Hacking\bin\Debug\Hacking.exe.config
+C:\ижгту\ижгту\КМЗИ\курсач\Elgamal-master\Elgamal-master\Hacking\bin\Debug\Hacking.exe
+C:\ижгту\ижгту\КМЗИ\курсач\Elgamal-master\Elgamal-master\Hacking\bin\Debug\Hacking.pdb
+C:\ижгту\ижгту\КМЗИ\курсач\Elgamal-master\Elgamal-master\Hacking\obj\Debug\Hacking.csprojAssemblyReference.cache
+C:\ижгту\ижгту\КМЗИ\курсач\Elgamal-master\Elgamal-master\Hacking\obj\Debug\Hacking.Form1.resources
+C:\ижгту\ижгту\КМЗИ\курсач\Elgamal-master\Elgamal-master\Hacking\obj\Debug\Hacking.Properties.Resources.resources
+C:\ижгту\ижгту\КМЗИ\курсач\Elgamal-master\Elgamal-master\Hacking\obj\Debug\Hacking.csproj.GenerateResource.cache
+C:\ижгту\ижгту\КМЗИ\курсач\Elgamal-master\Elgamal-master\Hacking\obj\Debug\Hacking.csproj.CoreCompileInputs.cache
+C:\ижгту\ижгту\КМЗИ\курсач\Elgamal-master\Elgamal-master\Hacking\obj\Debug\Hacking.exe
+C:\ижгту\ижгту\КМЗИ\курсач\Elgamal-master\Elgamal-master\Hacking\obj\Debug\Hacking.pdb
